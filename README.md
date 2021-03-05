@@ -1,2 +1,2 @@
 # Building GraphQL APIs in Django
-# This is a proect for a tutorial i'm cureently writing.
+# This is a project for a tutorial i'm cureently writing.
